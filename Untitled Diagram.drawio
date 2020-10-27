@@ -1,1 +1,165 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T12:25:45.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Whale/2.8.107.16 Safari/537.36" etag="mzRkyfBfAHctmvSwNvJB" version="13.8.3" type="github"><diagram id="v9wwCKNBpicsPbPjV2Z7" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-27T13:44:39.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Whale/2.8.107.16 Safari/537.36" etag="5Z5iCCG1XpNHU-rQrM7o" version="13.8.3" type="github">
+  <diagram id="v9wwCKNBpicsPbPjV2Z7" name="Page-1">
+    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="1869" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="uGR7MtjfXttv63hi-17V-3" target="xeWx6dX_x57I3mVBUe1U-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uGR7MtjfXttv63hi-17V-3" value="&quot;헬스케어&quot;&lt;br&gt;스크린이 열림" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="430" y="70" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="210" as="sourcePoint" />
+            <mxPoint x="520" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-2" target="xeWx6dX_x57I3mVBUe1U-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-2" value="저장소에서&amp;nbsp;&lt;br&gt;선택한&quot;저장소에서&amp;nbsp;&lt;br&gt;선택한&quot;사진&quot; 출력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontSize=18;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="210" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-6" target="xeWx6dX_x57I3mVBUe1U-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-6" target="xeWx6dX_x57I3mVBUe1U-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-6" value="&quot;건강측정시작&quot;&lt;br&gt;버튼을 눌렀는가?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-7" target="xeWx6dX_x57I3mVBUe1U-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-7" value="&quot;건강측정&quot;스크린&lt;br&gt;띄우기" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="360" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-9" target="xeWx6dX_x57I3mVBUe1U-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-9" target="xeWx6dX_x57I3mVBUe1U-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-9" value="&quot;추천운동&quot;&lt;br&gt;버튼을 눌렀는가?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-12" target="xeWx6dX_x57I3mVBUe1U-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-12" target="xeWx6dX_x57I3mVBUe1U-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-12" value="&quot;추천식단&quot;&lt;br&gt;버튼을 눌렀는가?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="390" y="660" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="366.25" as="sourcePoint" />
+            <mxPoint x="1000" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-16" target="xeWx6dX_x57I3mVBUe1U-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-16" value="블루투스가 &lt;br&gt;연결되었는가?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="900" y="356.25" width="200" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-21" value="&lt;span&gt;&quot;블루투스가&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;끊겼습니다&quot;&lt;/span&gt;&lt;br&gt;&lt;span&gt;텍스트 출력&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="910" y="210" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-22" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="510" as="sourcePoint" />
+            <mxPoint x="770" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="265" />
+              <mxPoint x="770" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-23" value="&lt;span&gt;&quot;블루투스가&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;연결되었습니다&quot;&lt;/span&gt;&lt;br&gt;&lt;span&gt;텍스트 출력&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="905" y="520" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-27" target="xeWx6dX_x57I3mVBUe1U-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-27" value="블루투스값 각각&lt;br&gt;텍스트박스에 출력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="900" y="650" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="822.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-32" target="xeWx6dX_x57I3mVBUe1U-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-32" value="체온값이 정상인가?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="770" width="220" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="821.8800000000001" y="822.5" as="sourcePoint" />
+            <mxPoint x="771.88" y="822.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-43" target="xeWx6dX_x57I3mVBUe1U-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-43" value="&lt;span&gt;심박수가 정상인가?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="790" y="770" width="220" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-51" value="" style="endArrow=classic;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xeWx6dX_x57I3mVBUe1U-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="740" as="sourcePoint" />
+            <mxPoint x="1070" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-52" value="측정결과&lt;br&gt;텍스트박스에&lt;br&gt;&quot;정상&quot; 출력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="810" y="900" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-54" target="xeWx6dX_x57I3mVBUe1U-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-54" value="심박수가 높으면&lt;br&gt;&quot;높음&quot;, 낮으면&lt;br&gt;&quot;낮음&quot; 측정결과에&lt;br&gt;츨력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="601.88" y="770" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="xeWx6dX_x57I3mVBUe1U-56" target="xeWx6dX_x57I3mVBUe1U-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-56" value="체온이 높으면&lt;br&gt;&quot;높음&quot;, 낮으면&lt;br&gt;&quot;낮음&quot; 측정결과에&lt;br&gt;츨력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="780" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-57" value="측정결과&lt;br&gt;텍스트박스에&lt;br&gt;&quot;정상&quot; 출력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="900" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-59" value="&lt;font style=&quot;font-size: 18px&quot;&gt;심박수가 높으면&lt;br&gt;&quot;심박수높음&quot;팝업창,&lt;br&gt;사진 출력&lt;br&gt;심박수가 낮으면&lt;br&gt;&quot;심박수낮음&quot;팝업창,&lt;br&gt;설명 출력&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="570" y="912.5" width="243.75" height="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-61" value="&lt;font style=&quot;font-size: 18px&quot;&gt;체온이 높으면&lt;br&gt;&quot;체온높음&quot;팝업창,&lt;br&gt;사진 출력&lt;br&gt;체온이 낮으면&lt;br&gt;&quot;체온낮음&quot;팝업창,&lt;br&gt;설명 출력&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1328.1200000000001" y="912.5" width="243.75" height="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-64" value="&quot;추천운동&quot;&lt;br&gt;스크린 띄우기" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="517.5" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-66" value="&quot;추천식단&quot;&lt;br&gt;스크린 띄우기" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="667.5" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="xeWx6dX_x57I3mVBUe1U-68" value="&quot;헬스케어&quot;&lt;br&gt;스크린 종료" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="430" y="800" width="160" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
